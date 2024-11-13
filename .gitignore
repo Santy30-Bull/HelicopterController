@@ -1,0 +1,35 @@
+[Llaves Generales]
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Unity
+Temp/
+Library/
+Logs/
+UserSettings/
+
+# Archivos de compilación
+Build/
+Builds/
+[Bb]uilds/
+
+# Archivos de cache de Unity
+[Bb]uild/Cache/
+
+# Archivos de proyectos de Visual Studio
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+
+# Archivos de dependencias externas
+obj/
+[Oo]bj/
+Packages/
